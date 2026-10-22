@@ -1,0 +1,41 @@
+{
+  "moneda": "ARS",
+  "clase_individual": 40000,
+  "duracion": "1 h",
+  "disponibilidad": "8:00 a 13:00 hs",
+  "frecuencia": "A elección del alumno",
+  "planes": [
+    {
+      "nombre": "Clase individual",
+      "clases": 1,
+      "precio": 40000,
+      "descuento": 0,
+      "por_clase": 40000,
+      "ahorro": 0
+    },
+    {
+      "nombre": "Pack 4",
+      "clases": 4,
+      "precio": 152000,
+      "descuento": 5,
+      "por_clase": 38000,
+      "ahorro": 8000
+    },
+    {
+      "nombre": "Pack 8",
+      "clases": 8,
+      "precio": 288000,
+      "descuento": 10,
+      "por_clase": 36000,
+      "ahorro": 32000
+    },
+    {
+      "nombre": "Pack 10",
+      "clases": 10,
+      "precio": 340000,
+      "descuento": 15,
+      "por_clase": 34000,
+      "ahorro": 60000
+    }
+  ]
+}

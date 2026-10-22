@@ -1,0 +1,33 @@
+{
+  "nombre": "Ro Bassetto Surf",
+  "marca": "Coaching & Training Integral 360°",
+  "lugar": "Club Ocampo · Costa Salguero, CABA",
+  "instagram": [
+    "@robassetto.surf",
+    "@surfingbaires"
+  ],
+  "alias_transferencia": "rnbassetto.mp",
+  "programa": [
+    {
+      "eje": "Capacidades físicas",
+      "detalle": "Fuerza, estabilidad, movilidad, flexibilidad dinámica y potencia."
+    },
+    {
+      "eje": "Técnica",
+      "detalle": "Trabajo fuera del agua y pileta con tabla, según disponibilidad."
+    },
+    {
+      "eje": "Surfskate",
+      "detalle": "Objetivos técnicos específicos en superficies planas o con pendiente."
+    }
+  ],
+  "herramientas": [
+    "Surftrips · viajes de coaching",
+    "Videoanálisis",
+    "Entrenamiento físico",
+    "Surfskate",
+    "Acompañamiento constante",
+    "Movilidad y flexibilidad",
+    "Dentro del agua"
+  ]
+}
